@@ -1,1 +1,3 @@
-Acesta este un fisier nou!
+Acesta este un fisier nou! 
+El a fost modificat din Bash.
+
